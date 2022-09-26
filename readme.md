@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite" src=".github/ignite.jpeg" width="200px" />
+    <img alt="Ignite" src="https://github.com/lucas-eduardo/ignite-node-challenge02/blob/main/.github/ignite.jpeg?raw=true" width="200px" />
 </h1>
 
 <h3 align="center">
